@@ -1,0 +1,14 @@
+{
+  "name": "atollsim-vercel-app",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "latest"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
